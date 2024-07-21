@@ -1,4 +1,4 @@
-.num1 , .num3, .num5{
+.odd{
     background-color: #FF7F7F;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
@@ -6,7 +6,7 @@
     color:#0000FF ;
     font-size: 36px;
 }
-.num3, #num4{
+.txt-size{
     font-size: 24px;
 }
 #num4 {
